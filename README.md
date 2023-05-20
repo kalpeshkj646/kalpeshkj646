@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @kalpeshkj646
-- 👀 I’m interested in Data Structures and Algorithms
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 👋 Hi, I’m Kalpesh Jadhav
+- 👀 I’m interested in Development
 - 💞️ I’m looking to collaborate on basic projects which will help me improve my skills
 
 <!---
