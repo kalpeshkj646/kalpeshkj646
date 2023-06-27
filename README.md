@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kalpesh Jadhav
+- 👋 Hi, I’m Kalpesh Jadhav (KJ)
 - 👀 I’m interested in Development
 - 💞️ I’m looking to collaborate on basic projects which will help me improve my skills
 
